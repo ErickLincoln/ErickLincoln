@@ -8,10 +8,10 @@
 <body>
   <h2>Olá! Eu sou o Erick Lincoln</h2>
   <ul>
-    <li>🎇 Dataholic in Analytics Development at <a href="https://www.dataside.com/">Dataside</a></li>
-    <li>👀 I’m interested in computer engineering.</li>
-    <li>🌱 I’m currently learning to be a computer engineer at the virtual university of the state of São Paulo (Univesp).</li>
-    <li>💞️ I'm looking to collaborate on software development.</li>
+    <li>🎇 Dataholic em Desenvolvimento de Analytics na <a href="https://www.dataside.com/">Dataside</a></li>
+    <li>👀 Me interesso por engenharia da computação.</li>
+    <li>🌱 Atualmente estou estudando para me tornar um engenheiro da computação na Universidade Virtual do Estado de São Paulo (Univesp).</li>
+    <li>💞️ Estou buscando colaborar em desenvolvimento de software.</li>
   </ul>
   <div>
     <a href="https://github.com/ErickLincoln">
