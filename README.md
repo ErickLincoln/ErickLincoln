@@ -8,15 +8,15 @@
 <body>
   <h2>Olá! Eu sou o Erick Lincoln</h2>
   <ul>
-    <li>🎇 Dataholic in Analytics Development at <a href="https://www.dataside.com/">Dataside</a></li>
-    <li>👀 I’m interested in computer engineering.</li>
-    <li>🌱 I’m currently learning to be a computer engineer at the virtual university of the state of São Paulo (Univesp).</li>
-    <li>💞️ I'm looking to collaborate on software development.</li>
+    <li>🎇 Analista de Desenvolvimento em Analytics na <a href="https://www.dataside.com/">Dataside</a></li>
+    <li>👀 Tenho interesse em engenharia de computação.</li>
+    <li>🌱 Atualmente estou estudando para ser engenheiro de computação na Universidade Virtual do Estado de São Paulo (Univesp).</li>
+    <li>💞️ Estou procurando colaborar em desenvolvimento de software.</li>
   </ul>
   <div>
     <a href="https://github.com/ErickLincoln">
-      <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickLincoln)](https://github.com/anuraghazra/github-readme-stats)"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericklincoln&layout=compact&langs_count=7&theme=great-gatsby"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickLincoln&show_icons=true&theme=radical"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickLincoln&layout=compact&langs_count=7&theme=radical"/>
     </a>
   </div>
   <div style="display: inline_block">
