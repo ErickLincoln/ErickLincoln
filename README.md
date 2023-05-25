@@ -15,7 +15,7 @@
   </ul>
   <div>
     <a href="https://github.com/ErickLincoln">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericklincoln&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickLincoln)](https://github.com/anuraghazra/github-readme-stats)"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericklincoln&layout=compact&langs_count=7&theme=great-gatsby"/>
     </a>
   </div>
