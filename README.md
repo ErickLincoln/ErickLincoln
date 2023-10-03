@@ -8,7 +8,7 @@
 <body>
   <h2>Olá! Eu sou o Erick Lincoln</h2>
   <ul>
-    <li>🎇 Analista de Desenvolvimento em Analytics na <a href="https://www.dataside.com/">Dataside</a></li>
+    <li>🎇 Data Engineering on <a href="https://www.dataside.com/">Dataside</a></li>
     <li>👀 Tenho interesse em engenharia de computação.</li>
     <li>🌱 Atualmente estou estudando para ser engenheiro de computação na Universidade Virtual do Estado de São Paulo (Univesp).</li>
     <li>💞️ Estou procurando colaborar em desenvolvimento de software.</li>
